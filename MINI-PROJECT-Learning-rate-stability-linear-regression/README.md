@@ -37,5 +37,3 @@ Open the notebook `learning_rate_stability.ipynb` in Google Colab or Jupyter Not
 - Compare optimizers such as Adam and RMSprop
 - Analyze robustness under noisy data
 - Package experiments into reusable modules
-
-## Ayushi 

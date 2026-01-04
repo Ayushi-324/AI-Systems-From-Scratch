@@ -41,6 +41,3 @@ Future projects may:
 -increase system complexity
 -integrate multiple concepts into larger artifacts
 -shift focus as understanding deepens
-
-
-## Ayushi
